@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "601ca9b4a41a41decd1361a6eb5b7a74",
+    "revision": "ae625993e10cb928b39ef6130d4aecec",
     "url": "/almanacDemo/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/almanacDemo/static/js/2.7bcbfe58.chunk.js.LICENSE"
   },
   {
-    "revision": "a826ebac6b95709aed7b",
-    "url": "/almanacDemo/static/js/main.9c2bbaf1.chunk.js"
+    "revision": "2704b017892c9f76361d",
+    "url": "/almanacDemo/static/js/main.b001a0d7.chunk.js"
   },
   {
     "revision": "2ff7d03690c4c4db636d",
